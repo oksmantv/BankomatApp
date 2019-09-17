@@ -10,7 +10,7 @@ namespace OKS_BankApp
 {
     class Program
     {
-
+        /// Test GitHUb Update
         public static String RandomKonto()
         {
             String KontoText;
